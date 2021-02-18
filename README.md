@@ -1,3 +1,4 @@
+![](https://github.com/DarkNuke090/DarkNuke090/blob/main/liquida.gif)
 ### Hi there 👋
 
 <!--
